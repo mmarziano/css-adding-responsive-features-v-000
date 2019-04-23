@@ -76,7 +76,7 @@
 }
 
 @media screen and (max-width: 700px) {
-  #navbar nav a.menu-icon {
+  #navbar .menu-icon {
   display: block;
 }
 }
