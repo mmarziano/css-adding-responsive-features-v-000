@@ -80,4 +80,8 @@
   #navbar .menu-icon {
     visibility: visible;
   }
+  
+  #logo {
+    display: none;
+  }
 }
