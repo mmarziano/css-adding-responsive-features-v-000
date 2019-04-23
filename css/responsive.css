@@ -80,7 +80,7 @@
     display: none;
   }
   
-  .menu-icon {
+  #navbar nav a:last-child {
     visibility: visible;
   }
 }
