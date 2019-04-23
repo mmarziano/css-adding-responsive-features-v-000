@@ -78,7 +78,7 @@
 @media screen and (max-width: 700px) {
 
   
-  #navbar nav a:last-child {
+  .menu-icon {
     visibility: visible;
   }
 }
