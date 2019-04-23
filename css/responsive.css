@@ -82,6 +82,7 @@
   
   #navbar .menu-icon {
     visibility: visible;
+    float: left;
   }
   
   #logo {
