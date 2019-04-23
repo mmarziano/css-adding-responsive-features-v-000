@@ -77,8 +77,7 @@
 
 @media screen and (max-width: 700px) {
 
-  
-  navbar .menu-icon {
+  #navbar .menu-icon {
     visibility: visible;
   }
 }
