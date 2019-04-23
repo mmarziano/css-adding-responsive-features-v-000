@@ -80,7 +80,7 @@
     display: none;
   }
   
-  #navbar .menu-icon {
+  .menu-icon {
   display: block;
-}
+  }
 }
